@@ -47,6 +47,13 @@
     "learnmode": {
       "image": "{{driverAssetsPath}}/learnmode.svg",
       "instruction": {
+        "en": "If you have attached a light, wait until it stops calibrating. Then press the button on your {{driverNameEn}} three times",
+        "nl": "Als er een lamp verbonden is, wacht totdat deze stopt met kalibreren. Druk dan driemaal op de knop op de {{driverNameNl}}"
+      }
+    },
+    "unlearnmode": {
+      "image": "{{driverAssetsPath}}/learnmode.svg",
+      "instruction": {
         "en": "Press the button on your {{driverNameEn}} three times",
         "nl": "Druk driemaal op de knop op de {{driverNameNl}}"
       }
